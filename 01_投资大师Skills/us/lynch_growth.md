@@ -191,4 +191,4 @@ distilled_at: 2026-06-16
 
 ## §12 免责声明
 
-本 SKILL 为对 Peter Lynch 公开著作（《One Up on Wall Street》《Beating the Street》《Learn to Earn》）与公开访谈的**第三方风格提炼，非本人授权、非其原话逐条复述**。所有内容仅用于 InvestAgents AI 模拟盘的研究与教育目的，**不构成任何投资建议、要约或操作指引**。真实投资有亏损本金的风险；任何人据此操作风险自负。提炼中可能存在理解偏差，请以原始著作为准。
+本 SKILL 为对 Peter Lynch 公开著作（《One Up on Wall Street》《Beating the Street》《Learn to Earn》）与公开访谈的**第三方风格提炼，非本人授权、非其原话逐条复述**。所有内容仅用于 AI 模拟盘的研究与教育目的，**不构成任何投资建议、要约或操作指引**。真实投资有亏损本金的风险；任何人据此操作风险自负。提炼中可能存在理解偏差，请以原始著作为准。
